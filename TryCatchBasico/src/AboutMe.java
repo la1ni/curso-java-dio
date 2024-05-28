@@ -19,6 +19,8 @@ public class AboutMe {
 
             scanner.close();
             System.out.println("nome completo: "+ nome + " " + sobrenome);
+            System.out.println("idade: "+ idade + " anos");
+            System.out.println("altura: "+ altura + "m");
         }
         catch (InputMismatchException e) {
             System.out.println("Os campos idade e altura precisam ser numéricos. Altura deve ser informada com ponto");
