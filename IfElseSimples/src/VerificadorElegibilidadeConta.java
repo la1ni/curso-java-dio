@@ -7,8 +7,8 @@ public class VerificadorElegibilidadeConta {
 
         int idade = scanner.nextInt();
         if (idade >= 18) {
-            System.out.println("Voce esta elegivel para criar uma conta bancaria.");
-        } else System.out.println("Voce nao esta elegivel para criar uma conta bancaria.");
+            System.out.println("Voce esta elegivel a criar uma conta bancaria.");
+        } else System.out.println("Voce nao esta elegivel a criar uma conta bancaria.");
     scanner.close();
     }
 }

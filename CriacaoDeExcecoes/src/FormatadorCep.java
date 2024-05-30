@@ -14,7 +14,7 @@ public static void main() {
             a = false;
             System.out.println(cepFormatado);
         } catch (CepInvalidoException e) {
-            System.out.println("O CEP deve ter 8 caracteres numéricos. Tente novamente: ");
+            System.out.println("O CEP deve ter 8 caracteres numéricos. Tente novamente.");
         }
     }
     while (a);

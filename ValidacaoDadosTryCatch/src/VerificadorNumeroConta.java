@@ -12,7 +12,6 @@ public class VerificadorNumeroConta {
         } catch (IllegalArgumentException e) {
             System.out.println("Erro: " + e.getMessage());
         } finally {
-            // Fechar o scanner para evitar vazamentos de recursos
             scanner.close();
         }
     }

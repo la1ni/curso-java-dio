@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalculoSalario/CalculoSalario.iml" filepath="$PROJECT_DIR$/CalculoSalario/CalculoSalario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChequeEspecial/ChequeEspecial.iml" filepath="$PROJECT_DIR$/ChequeEspecial/ChequeEspecial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContaBancariaSwitchCase/ContaBancariaSwitchCase.iml" filepath="$PROJECT_DIR$/ContaBancariaSwitchCase/ContaBancariaSwitchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CriacaoDeExcecoes/CriacaoDeExcecoes.iml" filepath="$PROJECT_DIR$/CriacaoDeExcecoes/CriacaoDeExcecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfElseSimples/IfElseSimples.iml" filepath="$PROJECT_DIR$/IfElseSimples/IfElseSimples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModelagemUmlIphone/ModelagemUmlIphone.iml" filepath="$PROJECT_DIR$/ModelagemUmlIphone/ModelagemUmlIphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SaquesComFor/SaquesComFor.iml" filepath="$PROJECT_DIR$/SaquesComFor/SaquesComFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartTv/SmartTv.iml" filepath="$PROJECT_DIR$/SmartTv/SmartTv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TryCatchBasico/TryCatchBasico.iml" filepath="$PROJECT_DIR$/TryCatchBasico/TryCatchBasico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidacaoDadosTryCatch/ValidacaoDadosTryCatch.iml" filepath="$PROJECT_DIR$/ValidacaoDadosTryCatch/ValidacaoDadosTryCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/curso-java-dio.iml" filepath="$PROJECT_DIR$/.idea/curso-java-dio.iml" />
+    </modules>
+  </component>
+</project>
