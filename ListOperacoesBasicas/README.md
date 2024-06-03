@@ -2,6 +2,7 @@
 
 Este projeto para fins de estudo busca aperfeiçoar aplicando de forma prática os conhecimentos obtidos a respeito da interface List e sua classe de implementação, ArrayList. Busca-se demonstrar métodos por ela contidos e operações básicas realizadas nessa Collection a partir dos exercícios descritos a seguir, cada qual em seu respectivo pacote.
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Descrições
 
