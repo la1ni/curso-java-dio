@@ -1,6 +1,6 @@
-# Operações básicas com List
+# Operações básicas com Set
 
-Este projeto para fins de estudo busca aperfeiçoar aplicando de forma prática os conhecimentos obtidos a respeito da interface Set e sua classe de implementação, HashSet. Busca-se demonstrar métodos por ela contidos e operações básicas realizadas nessa Collection a partir dos exercícios descritos a seguir, cada qual em seu respectivo pacote.
+Este projeto para fins de estudo busca aperfeiçoar aplicando de forma prática os conhecimentos obtidos a respeito da interface Set e suas classes de implementação, HashSet e TreeSet. Busca-se demonstrar métodos por ela contidos e operações básicas realizadas nessa Collection a partir dos exercícios descritos a seguir, cada qual em seu respectivo pacote.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
