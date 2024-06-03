@@ -1,7 +1,7 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Projetos de Java - Curso DIO </span>
+    <span> Projetos em Java - Trilha Java DIO </span>
 </h1>
 
 Este repositório contém projetos de Java desenvolvidos durante o curso de Java oferecido pela plataforma Digital Innovation One (DIO) em parceria com o banco Santander. Os projetos abordam conceitos de programação em Java, com o objetivo de fortalecer o aprendizado e a prática da linguagem, indo do mais básico IF até a construção de APIs. 
