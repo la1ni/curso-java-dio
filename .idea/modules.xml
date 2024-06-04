@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
       <module fileurl="file://$PROJECT_DIR$/CriacaoDeExcecoes/CriacaoDeExcecoes.iml" filepath="$PROJECT_DIR$/CriacaoDeExcecoes/CriacaoDeExcecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionalInterfaces/FunctionalInterfaces.iml" filepath="$PROJECT_DIR$/FunctionalInterfaces/FunctionalInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/IfElseSimples/IfElseSimples.iml" filepath="$PROJECT_DIR$/IfElseSimples/IfElseSimples.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListOperacoesBasicas/ListOperacoesBasicas.iml" filepath="$PROJECT_DIR$/ListOperacoesBasicas/ListOperacoesBasicas.iml" />
       <module fileurl="file://$PROJECT_DIR$/MapOperacoesBasicas/MapOperacoesBasicas.iml" filepath="$PROJECT_DIR$/MapOperacoesBasicas/MapOperacoesBasicas.iml" />
