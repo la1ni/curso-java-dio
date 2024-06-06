@@ -26,17 +26,29 @@ public class Banco {
             System.out.println(cpfInvalido.getMessage());
         }
     }
-    public Conta criarConta(Cliente cliente){
-        Conta conta = null;
+
+    public Conta criarConta(Cliente cliente) {
+        Conta conta;
         if (cliente.getIdade() < 18) {
             ContaPoupanca c = new ContaPoupanca(cliente);
-            conta = c;
             conta = c;
         } else {
             ContaCorrente c = new ContaCorrente(cliente);
             conta = c;
         }
-    return conta;
+        return conta;
 
+    }
+
+    public Conta acharContaPorNumero(int numeroConta) {
+        Conta conta = null;
+        for (Conta c : listaContas) {
+            if (c.getNumeroConta() == numeroConta) {
+                conta = c;
+            }
+        }
+        if (conta == null)
+            System.out.println("Não existe conta com esse número ");
+        return conta;
     }
 }

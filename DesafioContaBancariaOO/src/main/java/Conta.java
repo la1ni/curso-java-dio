@@ -1,8 +1,10 @@
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 
 @Getter
 @Setter
+@ToString
 public abstract class Conta implements InterfaceConta{
     private static final int AGENCIA_PADRAO = 11005;
     private static int SEQUENCIAL = 1;
@@ -23,25 +25,22 @@ public abstract class Conta implements InterfaceConta{
 
     @Override
     public void sacar(double valor) {
-    saldo -= valor;
+        saldo -= valor;
+        System.out.println("O novo saldo é: " + saldo);
     }
 
     @Override
     public void depositar(double valor) {
         saldo += valor;
-    }
-
-    @Override
-    public void transferir(double valor, Conta contaDestino) {
-        sacar(valor);
-        contaDestino.depositar(valor);
-
-    }
+        System.out.println("O novo saldo é: " + saldo);
+        }
     @Override
     public void exibirInformacoes(){
-        System.out.println("Conta: " + getNumeroConta());
+        System.out.println("Cliente: " + getCliente().getNome().toUpperCase());
+        System.out.println("Saldo: " + getSaldo());
+        System.out.println("Número da conta: " + getNumeroConta());
         System.out.println("Agência: " + getNumeroAgencia());
-        System.out.println("Saldo atual: "+ getSaldo());
-
     }
+
 }
+
