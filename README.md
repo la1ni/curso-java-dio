@@ -4,7 +4,7 @@
     <span> Projetos em Java - Trilha Java DIO </span>
 </h1>
 
-Este repositório contém projetos de Java desenvolvidos durante o curso de Java oferecido pela plataforma Digital Innovation One (DIO) em parceria com o banco Santander. Os projetos abordam conceitos de programação em Java, com o objetivo de fortalecer o aprendizado e a prática da linguagem, indo do mais básico IF até a construção de APIs. 
+Este repositório contém projetos de Java desenvolvidos durante o curso de Java oferecido pela plataforma Digital Innovation One (DIO) em parceria com o banco Santander. Os projetos abordam conceitos de programação em Java, com o objetivo de fortalecer o aprendizado e a prática da linguagem, indo do mais básico IF até a construção de APIs utilizando Spring Boot. 
 
 ### Tecnologias utilizadas:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![Static Badge](https://img.shields.io/badge/IntelliJ-purple?style=for-the-badge&logo=intellijidea&logoColor=hex)
