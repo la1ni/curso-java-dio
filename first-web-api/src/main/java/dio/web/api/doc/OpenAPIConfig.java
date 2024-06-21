@@ -23,14 +23,11 @@ public class OpenAPIConfig {
         contact.setName("Mariana Lainara");
         contact.setUrl("https://github.com/la1ni");
 
-        License mitLicense = new License().name("MIT License").url("https://choosealicense.com/licenses/mit/");
-
         Info info = new Info()
                 .title("API Exemplo")
                 .version("1.0")
                 .contact(contact)
-                .description("API para fins de estudo")
-                .license(mitLicense);
+                .description("API para fins de estudo");
 
         return new OpenAPI().info(info);
     }
