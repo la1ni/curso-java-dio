@@ -13,7 +13,9 @@ O projeto consiste em uma aplicação Java que exemplifica o uso dos seguintes p
 
 - **Singleton**: Garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso para essa instância. São implementadas as variantes Lazy, Eager e LazyHolder
 
-- **Strategy**: Define uma família de algoritmos, encapsula cada um deles e os torna intercambiáveis. Permite que o algoritmo varie independentemente dos clientes que o utilizam.
+
+- **Strategy**: Define uma família de algoritmos, encapsula cada um deles e os torna intercambiáveis. Permite que o algoritmo varie independentemente dos clientes que o utilizam. Para tanto, foi usado como exemplo um "Robô", que pode se comportar de três formas diferentes de acordo com o objeto da classe de movimentação que será passado.
+
 
 - **Facade**: Fornece uma interface unificada para um conjunto de interfaces em um subsistema. Facade define uma interface de nível mais alto que facilita o uso do subsistema.
 
